@@ -4,7 +4,7 @@
   "description": "домашнее задание в рамках обучения на курсе React от GeekBrains",
   "main": "index.js",
   "scripts": {
-    "server": "node server/mongoServer",
+    "server": "node server/",
     "build": "webpack --mode production",
     "start": "webpack-dev-server --mode development --open"
   },
